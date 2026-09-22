@@ -1,4 +1,4 @@
-# > 💡 **Instructor / Visitor Note:** This is the web version of our Project Plan. You can also download the official Word version [here](./Downloads/Telco_Customer_Churn_Prediction_Project_Plan.docx)
+# > 💡 **Instructor / Visitor Note:** This is the web version of our Project Plan. You can also download the official Word version [here](Project_Planning/Downloads/Telco_Customer_Churn_Prediction_Project_Plan.docx)
 # Telco Customer Churn Prediction
 **Date:** September 21, 2026
 
