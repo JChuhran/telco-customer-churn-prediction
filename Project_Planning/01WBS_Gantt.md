@@ -1,4 +1,4 @@
-# > 💡 **Instructor / Visitor Note:** This is the web version of our Project Plan. You can also download the official Word version [here](./Telco_Customer_Churn_Prediction_Project_Plan.docx). 
+# > 💡 **Instructor / Visitor Note:** This is the web version of our Project Plan. You can also download the official Word version [here](./Telco_Customer_Churn_Prediction-Project_WBS_Gantt.xlsx). 
 Project Workload Planning and Tracking
 
 **Project Name:** Telco Customer Churn Prediction  
