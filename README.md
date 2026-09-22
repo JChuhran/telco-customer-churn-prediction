@@ -29,8 +29,8 @@ Our project addresses customer churn in the telecommunications industry. By appl
 
 ## 📂 Project Deliverables & Links
 
-- **[Project Plan Document](Project_Planning/Telco_Customer_Churn_Prediction-Project_Plan.docx)** – Project scope, risk management, and schedule overview.
-- **[Gantt Chart & Workload Tracker](Project_Planning/Telco_Customer_Churn_Prediction-Project_WBS_Gantt.xlsx)** – Task assignments and timeline tracking.
+- **[Project Plan Document](Project_Planning/00Project_Plan.md)** – Project scope, risk management, and schedule overview.
+- **[Gantt Chart & Workload Tracker](Project_Planning/01WBS_Gantt.md)** – Task assignments and timeline tracking.
 - **[Milestone Reports](Deliverables/)**:
   - Milestone #1 Report (Due 9/25/2026)
   - Milestone #2 Report (Due 10/20/2026)
