@@ -1,1 +1,1 @@
-#Folder containing project planning documents
+# Folder containing project planning documents
