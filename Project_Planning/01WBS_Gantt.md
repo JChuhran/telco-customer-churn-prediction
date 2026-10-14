@@ -16,11 +16,11 @@ Project Workload Planning and Tracking
 | | Gantt Chart & Workload Planning | 100% | Completed | Joshua Chuhran | - | - | - | 3 | - | - | - | - | - | - | - | - | - | - |
 | | Milestone 1 Powerpoint Presentation | 100% | Completed | Salman Baig | - | - | - | 3 | - | - | - | - | - | - | - | - | - | - |
 | | Milestone 1 Submission Review | 100% | Completed | Salman Baig, Joshua Chuhran, Marshall Marlow, Alex Clark | - | - | - | 3 | - | - | - | - | - | - | - | - | - | - |
-| | Milestone #1 Submission | 0% | Not Started | Joshua Chuhran | - | - | - | 0 | - | - | - | - | - | - | - | - | - | - |
-| **Data Engineering & EDA** | Kaggle Dataset Acquisition & Cleaning | 50% | Started | Salman Baig | - | 3 | - | - | - | - | - | - | - | - | - | - | - | - |
-| | Exploratory Data Analysis (EDA) | 0% | Not Started | Alex Clark | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| | Data Cleaning & Preprocessing Pipeline | 0% | Not Started | Salman Baig | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| | Feature Engineering & Selection | 0% | Not Started | Marshall Marlow | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| | Milestone #1 Submission | 100% | Not Started | Joshua Chuhran | - | - | - | 0 | - | - | - | - | - | - | - | - | - | - |
+| **Data Engineering & EDA** | Kaggle Dataset Acquisition & Cleaning | 100% | Completed | Salman Baig | - | 3 | - | - | - | - | - | - | - | - | - | - | - | - |
+| | Exploratory Data Analysis (EDA) | 100% | Completed | Alex Clark | - | - | - | - | 3 | - | - | - | - | - | - | - | - | - |
+| | Data Cleaning & Preprocessing Pipeline | 100% | Completed | Alex Clark | - | - | - | - | - | 3 | - | - | - | - | - | - | - | - |
+| | Feature Engineering & Selection | 50% | Started | Marshall Marlow | - | - | - | - | - | - | 2 | - | - | - | - | - | - | - |
 | **Predictive Modeling & Evaluation** | Baseline Model Implementation | 0% | Not Started | Doris Onyeanula | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | Milestone #2 Submission | 0% | Not Started | Joshua Chuhran | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | Advanced Model Tuning (Random Forest / XGBoost) | 0% | Not Started | Salman Baig | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
