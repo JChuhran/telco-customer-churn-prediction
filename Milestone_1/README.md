@@ -1,1 +1,1 @@
-# Folder containing complete submission products for Milestone 1
+# Folder containing complete submission items for Milestone 1
