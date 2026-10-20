@@ -20,9 +20,9 @@ Project Workload Planning and Tracking
 | **Data Engineering & EDA** | Kaggle Dataset Acquisition & Cleaning | 100% | Completed | Salman Baig | - | 3 | - | - | - | - | - | - | - | - | - | - | - | - |
 | | Exploratory Data Analysis (EDA) | 100% | Completed | Alex Clark | - | - | - | - | 3 | - | - | - | - | - | - | - | - | - |
 | | Data Cleaning & Preprocessing Pipeline | 100% | Completed | Alex Clark | - | - | - | - | - | 3 | - | - | - | - | - | - | - | - |
-| | Feature Engineering & Selection | 50% | Started | Marshall Marlow | - | - | - | - | - | - | 2 | - | - | - | - | - | - | - |
-| **Predictive Modeling & Evaluation** | Baseline Model Implementation | 0% | Not Started | Doris Onyeanula | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| | Milestone #2 Submission | 0% | Not Started | Joshua Chuhran | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| | Feature Engineering & Selection | 100% | Completed | Marshall Marlow | - | - | - | - | - | - | 3 | - | - | - | - | - | - | - |
+| **Predictive Modeling & Evaluation** | Baseline Model Implementation | 100% | Completed | Joshua Chuhran | - | - | - | - | - | - | - | 3 | - | - | - | - | - | - |
+| | Milestone #2 Submission | 100% | Completed | Joshua Chuhran | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - |
 | | Advanced Model Tuning (Random Forest / XGBoost) | 0% | Not Started | Salman Baig | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | Model Evaluation (F1-Score & PR-AUC) | 0% | Not Started | Marshall Marlow | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | Milestone #3 Submission | 0% | Not Started | Joshua Chuhran | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
@@ -30,7 +30,7 @@ Project Workload Planning and Tracking
 | | GitHub Website & Documentation Finalization | 0% | Not Started | Alex Clark | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | Final Slide Deck & Presentation Prep | 0% | Not Started | Salman Baig | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | Final Project Deliverables Submission | 0% | Not Started | Marshall Marlow | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Total Workload (Hours)** | | **16** | | | **0** | **6** | **0** | **10** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** |
+| **Total Workload (Hours)** | | **33** | | | **0** | **6** | **0** | **15** | **3** | **3** | **3** | **3** | **0** | **0** | **0** | **0** | **0** | **0** |
 
 ---
 
