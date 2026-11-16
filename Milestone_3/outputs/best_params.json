@@ -1,0 +1,40 @@
+{
+  "Logistic Regression (tuned)": {
+    "model__C": 3.142880890840109,
+    "model__class_weight": "balanced",
+    "smote": "SMOTE"
+  },
+  "Random Forest": {
+    "model__class_weight": "balanced_subsample",
+    "model__max_depth": 12,
+    "model__max_features": "sqrt",
+    "model__min_samples_leaf": 11,
+    "model__min_samples_split": 9,
+    "model__n_estimators": 388,
+    "smote": "none"
+  },
+  "XGBoost": {
+    "model__colsample_bytree": 0.8317508845540279,
+    "model__gamma": 0.010123167692437374,
+    "model__learning_rate": 0.016188853704122885,
+    "model__max_depth": 3,
+    "model__min_child_weight": 2,
+    "model__n_estimators": 459,
+    "model__reg_lambda": 1.9159460026618627,
+    "model__scale_pos_weight": 1.0,
+    "model__subsample": 0.689707723784224,
+    "smote": "none"
+  },
+  "LightGBM": {
+    "model__class_weight": null,
+    "model__colsample_bytree": 0.9534142207728771,
+    "model__learning_rate": 0.02259707459386439,
+    "model__max_depth": 6,
+    "model__min_child_samples": 22,
+    "model__n_estimators": 382,
+    "model__num_leaves": 10,
+    "model__reg_lambda": 0.5105225557256488,
+    "model__subsample": 0.8042989210310263,
+    "smote": "none"
+  }
+}
