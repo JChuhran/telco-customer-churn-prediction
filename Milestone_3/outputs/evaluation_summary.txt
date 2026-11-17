@@ -1,0 +1,27 @@
+TELCO CUSTOMER CHURN - MODEL EVALUATION SUMMARY
+=============================================
+
+Results at the Best-F1 threshold:
+
+Highest F1-Score: Random Forest (0.6219)
+Highest PR-AUC: XGBoost (0.6590)
+Highest Recall: LightGBM (0.8021)
+Fewest Missed Churners: LightGBM (74)
+Fewest False Alarms: Logistic Regression (M2 baseline) (229)
+
+BUSINESS INTERPRETATION
+-----------------------
+Higher recall helps identify more customers at risk of leaving, but may also increase false alarms and unnecessary retention costs.
+The best model depends on the company's priorities and the cost of missed churners compared with unnecessary interventions.
+
+THRESHOLD ANALYSIS
+------------------
+Random Forest achieved an F1-score of 0.6219 at its Best-F1 threshold and 0.6341 at its recall-target threshold.
+The recall-target threshold reduced false alarms from 262 to 214 but increased missed churners from 87 to 101.
+This demonstrates the trade-off between identifying customers at risk and avoiding unnecessary interventions.
+
+CONCLUSION
+----------
+Random Forest is a promising candidate because of its competitive F1-score and flexible threshold performance.
+XGBoost achieved the highest PR-AUC, while LightGBM identified the largest proportion of actual churners at the Best-F1 operating point.
+Final model selection should consider business costs and performance on future unseen data.
