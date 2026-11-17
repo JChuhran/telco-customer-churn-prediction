@@ -23,14 +23,14 @@ Project Workload Planning and Tracking
 | | Feature Engineering & Selection | 100% | Completed | Marshall Marlow | - | - | - | - | - | - | 3 | - | - | - | - | - | - | - |
 | **Predictive Modeling & Evaluation** | Baseline Model Implementation | 100% | Completed | Joshua Chuhran | - | - | - | - | - | - | - | 3 | - | - | - | - | - | - |
 | | Milestone #2 Submission | 100% | Completed | Joshua Chuhran | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - |
-| | Advanced Model Tuning (Random Forest / XGBoost) | 0% | Not Started | Salman Baig | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| | Model Evaluation (F1-Score & PR-AUC) | 0% | Not Started | Marshall Marlow | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| | Milestone #3 Submission | 0% | Not Started | Joshua Chuhran | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Results Analysis & Final Documentation** | Model Results Visualization & Insights | 0% | Not Started | Doris Onyeanula | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| | Advanced Model Tuning (Random Forest / XGBoost) | 100% | Completed | Salman Baig | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| | Model Evaluation (F1-Score & PR-AUC) | 100% | Completed | Marshall Marlow | - | - | - | - | - | - | - | - | - | - | - | 3 | - | - |
+| | Milestone #3 Submission | 100% | Completed | Joshua Chuhran | - | - | - | - | - | - | - | - | - | - | - | 0 | - | - |
+| **Results Analysis & Final Documentation** | Model Results Visualization & Insights | 0% | Not Started | Marshall Marlow | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | GitHub Website & Documentation Finalization | 0% | Not Started | Alex Clark | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | | Final Slide Deck & Presentation Prep | 0% | Not Started | Salman Baig | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| | Final Project Deliverables Submission | 0% | Not Started | Marshall Marlow | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| **Total Workload (Hours)** | | **33** | | | **0** | **6** | **0** | **15** | **3** | **3** | **3** | **3** | **0** | **0** | **0** | **0** | **0** | **0** |
+| | Final Project Deliverables Submission | 0% | Not Started | Joshua Chuhran | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| **Total Workload (Hours)** | | **39** | | | **0** | **6** | **0** | **15** | **3** | **3** | **3** | **3** | **0** | **0** | **3** | **3** | **0** | **0** |
 
 ---
 
