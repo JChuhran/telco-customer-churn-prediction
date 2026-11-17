@@ -14,7 +14,10 @@ The analysis leverages the "Telco Customer Churn" dataset, consisting of over 7,
 | Role | Responsibility | Assigned To |
 | :--- | :--- | :--- |
 | **Team Leader** | Project management, task coordination, and delivery | Joshua Chuhran |
-| **Team Members** | Data engineering, model development, and documentation | Salman Baig, Doris Onyeanula, Alex Clark, Marshall Marlow |
+| **Team Members** | Baclup QA | Doris Onyeanula |
+| **Team Members** | Documentation and model fine-tuniung | Salman Baig |
+| **Team Members** | Data and feature engineering | Alex Clark |
+| **Team Members** | Model evaluation | Marshall Marlow |
 | **Advisor / Instructor** | Strategic guidance and process facilitation | Arindam Khanda |
 
 ---
@@ -48,7 +51,7 @@ The project repository and public-facing site will serve as the central hub for 
 | :--- | :--- | :--- |
 | **Milestone #1** | Project Plan, Repository Setup, Preliminary Data Exploration | September 25, 2026 |
 | **Milestone #2** | Feature Engineering, Baseline Model, Diagnostic Report | October 20, 2026 |
-| **Milestone #3** | Advanced Tuning, Evaluation (F1/PR-AUC targets), Draft Docs | November 10, 2026 |
+| **Milestone #3** | Advanced Tuning, Evaluation (F1/PR-AUC targets), | November 17, 2026 |
 | **Final Submission** | Final Codebase, Website, and Presentation | TBD |
 
 ### Review Meeting Schedule
